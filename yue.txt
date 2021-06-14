@@ -1,5 +1,5 @@
 i love you
 i hate you
 ls
-pwd
+pwd type
 git
