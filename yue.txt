@@ -3,3 +3,4 @@ i hate you
 ls
 pwd
 git
+rm
