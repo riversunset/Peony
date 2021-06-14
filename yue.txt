@@ -1,7 +1,7 @@
 i love you
 i hate you
 ls
-cd 
+cd
 pwd type
 git
 rm
