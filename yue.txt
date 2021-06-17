@@ -2,6 +2,6 @@ i love you
 i hate you
 ls
 cd
-pwd type
+pwd
 git
 rm
